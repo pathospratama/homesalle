@@ -1,0 +1,206 @@
+[
+    {
+      "id": 1,
+      "number": 1,
+      "name": "Tripod Kamera Profesional",
+      "category": "Aksesoris",
+      "price": 89000,
+      "originalPrice": 120000,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "link": "#",
+      "rating": 4.5,
+      "reviews": 1.28,
+      "ribuan":"8",
+      "stock": 15,
+      "description": "Tripod kamera stabil dengan tinggi adjustable, cocok untuk fotografi profesional dan vlogging.",
+      "features": ["Tinggi maksimal 160cm", "Bahan aluminium ringan", "Kepala ball 360°", "Dukungan berat hingga 3kg"]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "name": "A-KEMOLA Sandal Wanita Sepatu Wedges",
+      "category": "Clothing",
+      "price": 39900,
+      "originalPrice": 98000,
+      "image": "https://i.imgur.com/f9rmOIT.jpeg",
+      "link": "https://s.shopee.co.id/6KrOszr9jH",
+      "images": [
+    "https://i.imgur.com/MLDqtPo.jpeg",
+    "https://i.imgur.com/8y7UbRL.jpeg",
+    "https://i.imgur.com/KB7K9lZ.jpeg",
+    "https://i.imgur.com/HzleYM5.jpeg",
+    "https://i.imgur.com/kdeKTRw.jpeg"
+   ],
+      "rating": 4.8,
+      "reviews": 19.6,
+      "ribuan":"00",
+      "stock": 9999,
+      "description": "Didesain dengan out-sole anti slip yang membuat langkah tetap stabil dan tidak mudah tergelincir. Menggunakan bahan EVA yang ringan, nyaman, dan fleksibel-ideal untuk penggunaan sehari-hari. Tampak kokoh dan tebal, namun sebenarnya sangat ringan, lembut, dan nyaman dipakai.",
+      "specifications": "EVA (Ethylene Vinyl Acetate) adalah bahan ringan, lentur, dan empuk.",
+      "features": ["Anti Slip Outsole", "Bahan EVA Premium", "Sandal", "Sepatu", "Fashion cewe", "Fashion Perempuan"]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "name": "Payung HHYUKUMI Betuk Pedang Katana Samurai Japan",
+      "category": "Unik",
+      "price": 103749,
+      "originalPrice": 150000,
+      "image": "https://i.imgur.com/sX9WT3X.jpeg",
+      "link": "#",
+      "images": [
+        "https://i.imgur.com/tnOMss1.jpeg",
+        "https://i.imgur.com/tQqwVo4.jpeg",
+    "https://i.imgur.com/uYUhb0n.jpeg",
+    "https://i.imgur.com/Grci0gL.jpeg"
+   ],
+      "rating": 4.7,
+      "reviews": 8,
+      "ribuan":"0",
+      "stock": 999,
+      "description": "Payung dari HHYUKUMI hadir dengan bentuk menyerupai katana, yang merupakan pedang milik seorang samurai membuat siapa saja yang menggunakannya tampak lebih gagah. bagian pegangan ini didesain seperti gagang katana. membuat tampilannya menarik. ",
+      "specifications": "Material=ABS, Besi dan Kain Polister. Diameter=105 CM",
+      "features": ["payung hitam", "barang unik", "katana", "anti air"]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "name": "",
+      "category": "",
+      "price": 149000,
+      "originalPrice": 199000,
+      "image": "",
+      "link": "#",
+      "images": [
+    "https://images.unsplash.com/photo-1505142468610-359e7d316be0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=800&q=80",
+    "https://example.com/image2.jpg",
+    "https://example.com/image3.jpg"
+   ],
+      "rating": 4.2,
+      "reviews": 86,
+      "stock": 8,
+      "description": "",
+      "features": ["", "USB rechargeable", "Baterai tahan 8 jam", "Dimensi 25x15cm"]
+    }
+  ]
+  
