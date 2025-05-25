@@ -1,2 +1,2 @@
-from app import app
+from dulu import app
 app = app
