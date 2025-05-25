@@ -2,16 +2,13 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import firebase_admin
 from firebase_admin import credentials, firestore
-import os
-import json
 
 # Inisialisasi Flask
 app = Flask(__name__)
 CORS(app)
 
 # Inisialisasi Firebase
-firebase_config = json.loads(os.environ.get("FIREBASE_ADMIN_CONFIG"))
-cred = credentials.Certificate(firebase_config)
+cred = credentials.Certificate("homesalledata-firebase-adminsdk-fbsvc-78a38e30e6.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
